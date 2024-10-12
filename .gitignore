@@ -1,0 +1,30 @@
+# Directories
+images/
+songs/
+
+# Jupyter Notebook files
+*.ipynb_checkpoints
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environments
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# .DS_Store files (macOS)
+.DS_Store
+
+# Jupyter Notebook configuration
+jupyter_notebook_config.json
